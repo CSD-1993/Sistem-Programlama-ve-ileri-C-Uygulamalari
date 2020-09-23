@@ -1,7 +1,5 @@
 # Sistem-Programlama ve İleri C uygulamaları
 
-## Online Unix/Linux Sistem Programlama Kursu 
-
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kursun __19 Ekim 2020__ Pazartesi günü başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
