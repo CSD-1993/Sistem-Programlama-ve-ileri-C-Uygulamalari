@@ -11,7 +11,7 @@
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/kurs_icerigi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari/blob/master/kurs_programi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama-Kursu-/blob/master/sss.md)
 + [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZIqceCgpj8rHNRl_UXvH8oeLgXXFPJP9Qo8)
 
