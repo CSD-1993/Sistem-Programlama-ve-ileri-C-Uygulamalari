@@ -172,7 +172,7 @@
 
 - Algoritma Kavramı
 - Algoritmanın Karmaşıklığı
-- Algoritma Karmaşıklığıunı Hesaplama Yöntemleri
+- Algoritma Karmaşıklığının Hesaplama Yöntemleri
 - Asimtotik Notasyonlar 
 - Big O Notasyonu
 - Algoritmaların Sınıflandırılması
@@ -183,15 +183,15 @@
 - Bağlı Listeler, Kullanım Alanları ve Gerçekleştirimleri
 - Kuyruk Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
 - Stack Veri Yapısı, Kullanım Alanları ve Gerçekleştirimleri
-- Çift Yönlü Dinamik Diziler (Deque), Kullanım Alanlrı ve Gerçekleştirimleri
+- Çift Yönlü Dinamik Diziler (Deque), Kullanım Alanları ve Gerçekleştirimleri
 - Sıralama Algoritmaları
-- Arama (Seraching) İşlemleri, İçsel ve Dışsal Aramalar
+- Arama (Seraching) İşlemleri, İçsel ve Dışsal Arama Kavramları
 - İkili Aramalar
 - Üstel Aramalar
 - Hash Tabloları, Kullanım Alanları, Varyasyonları ve Gerçekleştirimleri
-- Tahsisat Algoritmaları ve Gerçekleştirimleri
+- Tahsisat Algoritmaları Kullanım Alanları ve Gerçekleştirimleri
 - Çöp Toplayıcı (Garbage Collector) Kavramı, Kullanım Alanları ve Gerçekleştirimleri
-- Ağaçlar ve Ağaçların Gerçekleştirimleri
+- Ağaç Kavramı, Özellikleri
 - İkili Ağaçlar
 - Ağaçlarda Dolaşım İşlemleri
 - Arama Ağaçları
@@ -202,7 +202,7 @@
 - Heap Sort Yöntemi
 - Dışsal (External) Aramalar
 - B-Tree ve B+Tree Ağaçları ve Gerçekleştirimleri
-- Veri Yapılarının Genelleştirilmeleri (Türeden Bağımsız Veri Yapılarının Oluşturulması)
+- Veri Yapılarının Genelleştirilmeleri (Türden Bağımsız Veri Yapılarının Oluşturulması)
 - Graf Veri Yapısı
 - Graf Veri Yapısının Gerçekleştirimleri
 - Graf Veri Yapısında Dolaşım İşlemleri
@@ -236,6 +236,7 @@
 - UNIX/Linux Sistyemlerinde Dinamik Kütüphanelerin Dinamik Yüklenmesi
 
 ## Derleyiciler ve Yorumlayıcılar
+
 - Derleyicilerin Çalışma Mekanizmaları
 - Yorumlayıcıların Çalışma Mekanizmaları
 - Derleyicilerde Kod Optimizasyonları
@@ -247,14 +248,6 @@
 - Bison Aracının Kullanımı
 - Yorumlayıcı Gerçekleştirimleri
 
-## Kütüphanelerim Oluşturulması ve Kullanılması
-
-- Kütüphane Kavramı 
-- Window Sistemlerinde Statik Kütüphanelerin Oluşturulması ve Kullanılması
-- UNIX/Linux Sistemlerinde Statik Kütüphanelerin Oluşturulması ve Kullanılması
-- Windows Sistemlerinde Dinamik Kütüphanelerin Oluşturulması ve Kullanılması
-- UNIX/Linux Sistemlerinde Dinamik Kütüphanelerin Oluşturulması ve Kullanılması
-
 ## Yazılımsal Araçların Kullanımı
 
 - Versiyon Takip Sistemleri
@@ -265,6 +258,13 @@
 - Profiler'lar ve GNU gprof Araçlarının Kullanımı
 - Visual Studio Debugger Kullanımı
 - GDB Kullanımı
+
+## Yazılımlarda Test Süreci
+
+- Genel Olarak Test Süreci
+- Test Yöntemleri
+- Test Otomasyon Araçları Hakkında Genel Bilgiler
+- C'de Birim Testleri
 
 ## Aşağı Seviyeli Disk İşlemleri
 
