@@ -259,7 +259,7 @@
 - Visual Studio Debugger Kullanımı
 - GDB Kullanımı
 
-## C'de Veritabanı İşlemleri
+## Veritabanı İşlemleri
 
 - Veritabanı Yönetim Sistemlerinin Genel Yapısı
 - Gömülü Veritabanı Yönetim Sistemleri
