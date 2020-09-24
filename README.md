@@ -1,7 +1,7 @@
 # Sistem-Programlama ve İleri C uygulamaları
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kursun __19 Ekim 2020__ Pazartesi günü başlayacaktır.
++ Kursun __26 Ekim 2020__ Pazartesi günü başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Pazartesi Çarşamba ve Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
