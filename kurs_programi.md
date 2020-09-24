@@ -259,6 +259,13 @@
 - Visual Studio Debugger Kullanımı
 - GDB Kullanımı
 
+## C'de Veritabanı İşlemleri
+
+- Veritabanı Yönetim Sistemlerinin Genel Yapısı
+- Gömülü Veritabanı Yönetim Sistemleri
+- C'de Sqlite Kullanımı
+- C'de MySql Kullanımı
+
 ## Yazılımlarda Test Süreci
 
 - Genel Olarak Test Süreci
