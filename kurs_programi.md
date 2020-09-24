@@ -75,7 +75,7 @@
 - İkincil Belleklerden Veri Transferi
 - Önbellek (Cache) Sistemleri
 - Önbellek Terminolojisi
-- Çok karşılaşılan Önbellek Sistemleri
+- Çok Karşılaşılan Önbellek Sistemleri
 - Önbellek Sistemlerinin Tasarımı 
 - C'nin Standart Dosya Fonksiyonlarınının Kullandığı Tampon (Önbellek) Mekanizması
 - stdin, stdout ve stderr Dosyalarının Tamponlama Mekanizmaları
@@ -90,8 +90,7 @@
 - Sanal Bellek Kullanımı
 - Proseslerarası Geçiş 
 
-
-## Giriş Çıkış Yönlendirmeleri
+## Giriş Çıkış Yönlendirmeleri ve Boru İşlemleri
 
 - Giriş/Çıkış Yönlendirmeleri (IO Redirection)
 - Komut Satırında Boru İşlemleri
@@ -99,15 +98,15 @@
 ## Prosesler ve İşletim Sisteminin Proses Yönetimleri
 
 - Zaman Paylaşımlı Çalışma Modeli
-- Çizelgeleyici Alt Sistem
-- Bloke Kavramı
-- Çalışma Kuyrukları (Run QueueS) ve Bekleme Kuyrukları (Wait Queues)
+-İşletim Sistemlerinin Çizelgeleyici Alt Sistemleri
+- Bloke Kavramı, Processlerin ve Thread'lerin Bloke Olması
+- Çalışma Kuyrukları (Run Queues) ve Bekleme Kuyrukları (Wait Queues)
 - Proseslerin Çevre Değişkenleri
 - IO Yoğun ve CPU Yoğun Prosesler
 - Windows'ta Proseslerin Yaratılması ve Sonlanması
 - UNIX/Linux Sistemlerinde Proseslerin Yaratılması ve Sonlanması (fork ve exec işlemleri)
 - Proseslerarasında Altlık-Üstlük (Parent-Child) İlişkileri
-- Proseslerin Çıkış Kodlarının Elde Edilmesi
+- Proseslerin Çıkış (Exit) Kodlarının Elde Edilmesi
 - UNIX/Linux Sistemlerinde Hortlak (Zombie) Prosesler
 - Windows ve UNIX/Linux Sistemlerinde Proses Listesinin Elde Edilmesi
 - Proseslerin Kullandığı Kaynaklar
@@ -123,7 +122,7 @@
 - UNIX/Linux Sistemlerinde Paylaşılan Bellek Alanları
 - Windows Sistemlerinde Bellek Tabanlı Dosyalar
 - UNIX/Linux Sistemlerinde Bellek Tabanlk Dosyalar
-- UNIX/Linux Sistemlerinde MEsaj Kuyrukları
+- UNIX/Linux Sistemlerinde Mesaj Kuyrukları
 
 ## Thread'lerle İşlemler
 
