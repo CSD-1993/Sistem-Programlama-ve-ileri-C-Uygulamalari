@@ -7,7 +7,7 @@
 - Programlamadaki Katmanlı Yapılar
 - API Kavramı
 - Kütüphane ve Framework Kavramları
-- CPU, Mikroişlemci, Mikrodenetleyici SOC ve SBD Kavramları
+- CPU, Mikroişlemci, Mikrodenetleyici SOC (System on Chip) ve SBC (Single-Board Computer) Kavramları
 - C'de Tanımsız Davranış, Derleyiciye Bağlı Davranış ve Belirsiz Davranış Kavramları
 - C Derleyicilerinin Hata Mesajları ve Standartlara Uyum
 - Kursta Kullanılacak Olan Nispeten Az Bilinen Bazı Standart C Fonksiyonları
