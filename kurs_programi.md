@@ -12,7 +12,7 @@
 - C Derleyicilerinin Hata Mesajları ve Standartlara Uyum
 - Kursta Kullanılacak Olan Nispeten Az Bilinen Bazı Standart C Fonksiyonları
 - Geçici Dosya Kavramı ve Geçici Dosyaların Oluşturulması
-- UNIX/Linux, Mac OS X ve Windows Sistemlerinde C Programlarının Derlenerek Çalıştırılması
+- Windows, UNIX/Linux ve Mac OS X Sistemlerinde C Programlarının Derlenerek Çalıştırılması
 - GNU Tarzı Komut Satırı Argümanları
 - Komut Satırı Argümanlarının Ayrıştırılması
 - İşletim Sistemlerinin Sistem Fonksiyonları, POSIX Fonksiyonları ve Windows API Fonksiyonları
@@ -42,9 +42,9 @@
 - Windows Sistemlerinde Dosya Nesneleri ve Proseslerin Handle Tabloları
 - UNIX/Linux Sistemlerinde Dosya Nesneleri ve Dosya Betimleyicilerin Anlamı
 - Windows Sistemlerinde Dosya Sistemi İle İlgili Yardımcı API Fonksiyonları
-- UNIX/Linux Sistemlerinde Dosya Sistemi İle İlgili Yardımcı API Fonksiyonları
+- UNIX/Linux Sistemlerinde Dosya Sistemi İle İlgili Yardımcı POSIX Fonksiyonları
 - Windows Sistemlerinde Dizin İçerisindeki Dosyaların Elde Edilmesi
-- IX/Linux Sistemlerinde Dizin İçerisindeki Dosyaların Elde Edilmesi
+- UNIX/Linux Sistemlerinde Dizin İçerisindeki Dosyaların Elde Edilmesi
 - Dizin Değişiklerinin Otomatik Olarak İzlenmesi
 
 ## Özyinelemeli İşlemler
