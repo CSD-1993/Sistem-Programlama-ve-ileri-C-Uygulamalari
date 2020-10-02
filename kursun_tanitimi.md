@@ -6,7 +6,7 @@
 
 + __Sistem Programlama ve İleri C Uygulamaları__ isminden de anlaşılabileceği gibi uygulamalı bir kurstur. Kursta eğitmen eşliğinde 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
-+ Kurs yüzeysel değil ayrıntılıdır. 
++ Kursta konular yüzeysel değil ayrıntılı bir biçie alınmaktadır.
 
 + Kurs ders programı bağlamında ne kadar iyi tasarlanmış olursa olsun, eğitmen bu alanda ne kadar yetkin olursa olsun katılımcıların beklenen hedeflere ulaşabilmesi için asgari bir motivasyona sahip olması gerekmektedir. Katılımcılar ders saatleri dışında haftada en az 3 saatlik bireysel çalışma yaparlarsa hedeflenen düzeye tam olarak ulaşabilirler. 
 
