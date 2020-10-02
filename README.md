@@ -4,8 +4,8 @@
 + Kursun __26 Ekim 2020__ Pazartesi günü başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __160__ saattir. Dersler __Pazartesi Çarşamba ve Cuma__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
-+ Kursun toplam ücreti __3.500 TL__‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) __%10__ indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
++ Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Kursun toplam ücreti __3.800 TL__'dir. Öğrencilere için (öğrencilik durumunu belgelemeleri kaydıyla) kurs ücreti __3.400 TL__'dir. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Sistem-Programlama-ve-ileri-C-Uygulamalari/blob/master/kursun_tanitimi.md)
