@@ -2,8 +2,6 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
 
-+ `UNIX/Linux` türevi sistemlerinde `C` dilini kullanarak programlama yapmak isteyen, bu sistemlerin aşağı seviyeli tasarım ve yazımını öğrenmek isteyen tüm programcılara yöneliktir. Kursun temel özellikleri şöyle özetlenebilir:
-
 + Kurs __C__ Programlama dilini kullanarak sistem programalama alanında profesyonel olarak çalışmak isteyen programcılara yöneliktir. 
 
 + Kurs __C ve Sistem Programcıları Derneği__ tarafından __1998__ yılından beri dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştirme faaliyetlerinde bulunan çok sayıda kuruma bu eğitim verilmiştir.
