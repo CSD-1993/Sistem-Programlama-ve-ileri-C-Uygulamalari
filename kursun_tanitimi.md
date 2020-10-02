@@ -4,7 +4,7 @@
 
 + Kurs __C__ Programlama dilini kullanarak  programlama alanında profesyonel olarak çalışmak isteyen programcılara yöneliktir. 
 
-+ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1998__ yılından beri dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştirme faaliyetlerinde bulunan çok sayıda kuruma bu eğitim verilmiştir.
++ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1998__ yılından beri dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
