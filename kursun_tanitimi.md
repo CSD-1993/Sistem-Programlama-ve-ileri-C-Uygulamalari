@@ -1,8 +1,10 @@
 # Sistem Programlama ve İleri C Uygulamaları Kursu Genel Tanıtım
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
++ Bu kurs C Programlama Dilini bilen programcıları sistem programlama alanına taşımayı ve onlara aşağı seviyeli uygulama geliştirme becerisini kazandırmayı hedefleemektedir. Dolayısıyla kurs bu alanda kendini geliştirmek ve yetkinlik kazanmak isteyen programcılara yöneliktir. Kurs içerisinde birbirinden farklı peek çok konu uygulamalı bir biçimde eele alınmaktadır.
 
-+ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1995__ yılından beri -ders programı srekli güncellenerek- Dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
++ Kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
+
++ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1995__ yılından beri -ders programı sürekli güncellenerek- Dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
@@ -12,7 +14,7 @@
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
-+ Kurs katılımcıları __C ve Sistem Programcıları Derneği__ tarafından geliştirilmekte olan __CSD İşletim Sistemi__ projesinde de görev alabilir hale gelmektedir. 
++ Kurs ders programı bağlamında ne kadar iyi tasarlanmış olursa olsun, eğitmen ne kadar yetkin olursa olsun katılımcının kursun hedeflediği düzeye erişebilmesi için asgari bir motivasyona sahip olması gerekmektedir. Ders saatleri dışında haftada en az 3 saatlik bireysel bir çalışma yapılırsa katılımcılar hedeflenen düzeye tam olarak ulaşabilirler. 
 
 ## Ön Koşul
 
