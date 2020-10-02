@@ -1,20 +1,16 @@
 # Sistem Programlama ve İleri C Uygulamaları Kursu Genel Tanıtım
 
-+ Bu kurs C Programlama Dilini bilen programcıları sistem programlama alanına taşımayı ve onlara aşağı seviyeli uygulama geliştirme becerisini kazandırmayı hedefleemektedir. Dolayısıyla kurs bu alanda kendini geliştirmek ve yetkinlik kazanmak isteyen programcılara yöneliktir. Kurs içerisinde birbirinden farklı peek çok konu uygulamalı bir biçimde eele alınmaktadır.
-
-+ Kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
++ Bu kurs C Programlama Dilini bilen programcıları sistem programlama alanıyla tanıştırmayı ve onlara aşağı seviyeli uygulama geliştirme becerisini kazandırmayı hedeflemektedir. Dolayısıyla kurs bu alanda kendini geliştirmek ve yetkinlik kazanmak isteyen programcılara yöneliktir. Kurs içerisinde birbirinden farklı pek çok konu uygulamalı bir biçimde ele alınmaktadır.
 
 + Kurs __C ve Sistem Programcıları Derneği__ tarafından __1995__ yılından beri -ders programı sürekli güncellenerek- Dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
-+ Kurs işletim sistemlerinin aşağı seviyeli çalışma mekanizmasını da anlatmayı hedeflemektedir. 
-
-+ Kurs sistem programlarının  tasarım yazım ve programlanmasında ilerlemek ve ustalaşmak isteyen programcılara önemli katkılar sağlayacaktır.
-
 + Kurs yüzeysel değil ayrıntılıdır. 
 
-+ Kurs ders programı bağlamında ne kadar iyi tasarlanmış olursa olsun, eğitmen ne kadar yetkin olursa olsun katılımcının kursun hedeflediği düzeye erişebilmesi için asgari bir motivasyona sahip olması gerekmektedir. Ders saatleri dışında haftada en az 3 saatlik bireysel bir çalışma yapılırsa katılımcılar hedeflenen düzeye tam olarak ulaşabilirler. 
++ Kurs ders programı bağlamında ne kadar iyi tasarlanmış olursa olsun, eğitmen ne kadar yetkin olursa olsun katılımcıların kursun hedeflediği düzeye erişebilmesi için asgari bir motivasyona sahip olması gerekmektedir. Ders saatleri dışında haftada en az 3 saatlik bireysel çalışma yapılırsa katılımcılar hedeflenen düzeye tam olarak ulaşabilirler. 
+
++ Kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
 
 ## Ön Koşul
 
