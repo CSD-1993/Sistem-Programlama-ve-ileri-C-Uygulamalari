@@ -4,7 +4,7 @@
 
 + Kurs __C ve Sistem Programcıları Derneği__ tarafından __1995__ yılından beri -ders programı sürekli güncellenerek- Dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
-+ __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
++ __Sistem Programlama ve İleri C Uygulamaları__ isminden de anlaşılabileceği gibi uygulamalı bir kurstur. Kursta eğitmen eşliğinde 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
