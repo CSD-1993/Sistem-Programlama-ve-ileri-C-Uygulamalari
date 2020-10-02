@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
 
-+ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1998__ yılından beri dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
++ Kurs __C ve Sistem Programcıları Derneği__ tarafından __1995__ yılından beri -ders programı srekli güncellenerek- Dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
