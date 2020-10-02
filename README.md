@@ -4,7 +4,7 @@
 + Kursun __26 Ekim 2020__ Pazartesi günü başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba günleri 19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti __3.800 TL__'dir. Öğrencilere için (öğrencilik durumunu belgelemeleri kaydıyla) kurs ücreti __3.400 TL__'dir. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
