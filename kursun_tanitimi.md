@@ -2,8 +2,6 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
 
-+ Kurs __C__ Programlama dilini kullanarak  programlama alanında profesyonel olarak çalışmak isteyen programcılara yöneliktir. 
-
 + Kurs __C ve Sistem Programcıları Derneği__ tarafından __1998__ yılından beri dernek bünyesinde ve kurumsal düzeyde verilmektedir. C dilini kullanarak yazılım geliştiren çok sayıda kuruma bu eğitim verilmiştir.
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
@@ -11,8 +9,6 @@
 + Kurs işletim sistemlerinin aşağı seviyeli çalışma mekanizmasını da anlatmayı hedeflemektedir. 
 
 + Kurs sistem programlarının  tasarım yazım ve programlanmasında ilerlemek ve ustalaşmak isteyen programcılara önemli katkılar sağlayacaktır.
-
-+ Kursta "Veri Yapıları ve Algoritmalar" konuları da ayrıntılı bir şekilde ele alınmaktadır.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
@@ -25,7 +21,7 @@ Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine
 ## Format
 + __Sistem Programlama ve İleri C Uygulamaları Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
-+ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
++ Program boyunca öğrencilere belirli aralıklarla çalışma soruları verilmekte, bunların çözümleri açıklanmakta ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile __Vimeo__ üzerinden izleyebilirler.
 
