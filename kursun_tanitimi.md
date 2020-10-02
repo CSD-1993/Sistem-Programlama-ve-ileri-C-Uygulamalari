@@ -10,9 +10,9 @@
 
 + __Sistem Programlama ve İleri C Uygulamaları__ uygulamalı bir kurstur. Kursta 100'den fazla irili ufaklı uygulama yapılmaktadır.
 
-+ Kurs yalnızca `UNIX` türevi sistemlerde programlamayı değil aynı zamanda bu sistemlerin aşağı seviyeli çalışma mekanizmasını da anlatmayı hedeflemektedir. 
++ Kurs işletim sistemlerinin aşağı seviyeli çalışma mekanizmasını da anlatmayı hedeflemektedir. 
 
-+ Kurs `UNIX/Linux` sistemlerinin tasarım yazım ve programlanmasında ilerlemek ve ustalaşmak isteyen programcılara yöneliktir.
++ Kurs sistem programlarının  tasarım yazım ve programlanmasında ilerlemek ve ustalaşmak isteyen programcılara yöneliktir.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
