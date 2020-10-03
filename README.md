@@ -1,4 +1,4 @@
-# Sistem-Programlama ve İleri C uygulamaları
+# Online Sistem-Programlama ve İleri C uygulamaları
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 + Kursun __26 Ekim 2020__ Pazartesi günü başlayacaktır.
