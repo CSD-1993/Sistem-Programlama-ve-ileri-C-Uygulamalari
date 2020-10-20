@@ -10,7 +10,7 @@
 
 + Kurs ders programı bağlamında ne kadar iyi tasarlanmış olursa olsun, eğitmen bu alanda ne kadar yetkin olursa olsun katılımcıların beklenen hedeflere ulaşabilmesi için asgari bir motivasyona sahip olması gerekmektedir. Katılımcılar ders saatleri dışında haftada en az 3 saatlik bireysel çalışma yaparlarsa hedeflenen düzeye tam olarak ulaşabilirler. 
 
-+ Kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __26 Ekim 2020 Pazartesi__ günü başlayacaktır.
++ Kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir. Kurs __7 Aralık 2020 Pazartesi__ günü başlayacaktır.
 
 ## Ön Koşul
 
