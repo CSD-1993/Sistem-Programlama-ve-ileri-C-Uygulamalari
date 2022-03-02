@@ -154,20 +154,6 @@
 - Windows Sistemlerinde Thread'lerin Çizelgelenmesi
 - UNIX/Linux Sistemlerinde Thread'lerin Çizelgelenmesi
 
-## Paralel Programlama
-
-- Paralel Programlamanın Anlamı ve Önemi
-- Paralel Programlamanın Sorunları
-- Paralel Programlamada Kullanılan Kütüphaneler ve Ortamlar
-- OpenMP Kütüphanesinin Kullanımı
-
-## Windows ve UNIX/Linux Sistemlerinde İleri IO İşlemleri
-
-- Windows ve UNIX/Linux Sistemlerinde Multiplexed IO İşlemleri
-- UNIX Sistemlerinde Sinyal Tabanlı Haberleşme İşlemleri
-- Windows Sistemlerinde Asenkron IO Modelleri ve IO Completion Port Kullanımı
-- UNIX/Linux Sistemlerinde Asenkron IO İşlemleri
-
 ## Veri Yapıları ve Algoritmalar
 
 - Algoritma Kavramı
@@ -234,19 +220,6 @@
 - UNIX/Linux Sistemlerinde Dinamik Kütüphanelerin Yaratılması ve Kullanımı
 - Windows Sistemlerinde Dinamik Kütüphanelerim Dinamik Yüklenmesi
 - UNIX/Linux Sistyemlerinde Dinamik Kütüphanelerin Dinamik Yüklenmesi
-
-## Derleyiciler ve Yorumlayıcılar
-
-- Derleyicilerin Çalışma Mekanizmaları
-- Yorumlayıcıların Çalışma Mekanizmaları
-- Derleyicilerde Kod Optimizasyonları
-- Programlama Dillerinin Sentaktik Gramerleri ve BNF Notasyonu
-- Derleyici ve Yorumlayıcı Yazımında Kullanılan Alternatif Araçlar
-- Kaynak Kodun Atomlarına Ayrılması
-- Flex Aracının Kullanılması
-- Sentaks Analizi 
-- Bison Aracının Kullanımı
-- Yorumlayıcı Gerçekleştirimleri
 
 ## Yazılımsal Araçların Kullanımı
 
