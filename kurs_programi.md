@@ -85,7 +85,7 @@
 - İşlemcilerin Koruma Mekanizmasının Anlamı
 - İşlemcilerin Bellek ve Komut Koruması
 - Proseslerin Çekirdek Moduna Geçmesi ve Geri Dönmesi
-- Çekirdek Modülleri ve Ayggıt Sürücülerin Anlamı
+- Çekirdek Modülleri ve Aygıt Sürücülerin Anlamı
 - İşlemcilerin Sayfalama Mekanizmasının Anlamı
 - Sanal Bellek Kullanımı
 - Proseslerarası Geçiş 
@@ -98,7 +98,7 @@
 ## Prosesler ve İşletim Sisteminin Proses Yönetimleri
 
 - Zaman Paylaşımlı Çalışma Modeli
--İşletim Sistemlerinin Çizelgeleyici Alt Sistemleri
+- İşletim Sistemlerinin Çizelgeleyici Alt Sistemleri
 - Bloke Kavramı, Processlerin ve Thread'lerin Bloke Olması
 - Çalışma Kuyrukları (Run Queues) ve Bekleme Kuyrukları (Wait Queues)
 - Proseslerin Çevre Değişkenleri
